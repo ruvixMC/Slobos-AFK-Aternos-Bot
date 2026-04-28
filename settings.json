@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "killsmp-QUoO.aternos.me:33315",
+    "port": 33315,
     "version": "",
     "try-creative": false
   },
