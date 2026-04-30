@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bot_like_you",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "killsmp-QUoO.aternos.me",
+    "ip": "killsmp-QUoO.aternos.me:33315",
     "port": 33315,
     "version": "",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a normal player",
+        "Subscribe to RuvixMC!",
+        "kill smp us the best server"
       ]
     },
     "chat-log": true,
