@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "killsmp-QUoO.aternos.me:33315",
+    "ip": "killsmp-QUoO.aternos.me",
     "port": 33315,
     "version": "",
     "try-creative": false
